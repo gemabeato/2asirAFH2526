@@ -3,10 +3,30 @@
     <title>prueba de web</title>
     <link href="https://gemabeato.github.io/2asirAFH2526/feed.xml" rel="self" />
     <link href="https://gemabeato.github.io/2asirAFH2526" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-10-08T21:06:37+02:00</updated>
     <author>
         <name>Gema</name>
     </author>
     <id>https://gemabeato.github.io/2asirAFH2526</id>
 
+    <entry>
+        <title>Hola</title>
+        <author>
+            <name>Gema</name>
+        </author>
+        <link href="https://gemabeato.github.io/2asirAFH2526/hola.html"/>
+        <id>https://gemabeato.github.io/2asirAFH2526/hola.html</id>
+
+        <updated>2025-10-08T21:06:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                    holaaaaa
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>holaaaaa</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
