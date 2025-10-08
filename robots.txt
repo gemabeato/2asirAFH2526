@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gemabeato.github.io/2asirAFH2526/sitemap.xml
