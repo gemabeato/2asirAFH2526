@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>prueba de web</title>
-    <link href="https://gemabeato.github.io/2asirAFH2526/feed.xml" rel="self" />
-    <link href="https://gemabeato.github.io/2asirAFH2526" />
-    <updated>2025-10-08T21:06:37+02:00</updated>
+    <title>Prueba web</title>
+    <link href="https://gemabeato.github.io/2asirAFH2526/trabajos/feed.xml" rel="self" />
+    <link href="https://gemabeato.github.io/2asirAFH2526/trabajos" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Gema</name>
     </author>
-    <id>https://gemabeato.github.io/2asirAFH2526</id>
+    <id>https://gemabeato.github.io/2asirAFH2526/trabajos</id>
 
-    <entry>
-        <title>Hola</title>
-        <author>
-            <name>Gema</name>
-        </author>
-        <link href="https://gemabeato.github.io/2asirAFH2526/hola.html"/>
-        <id>https://gemabeato.github.io/2asirAFH2526/hola.html</id>
-
-        <updated>2025-10-08T21:06:37+02:00</updated>
-            <summary>
-                <![CDATA[
-                    holaaaaa
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>holaaaaa</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
